@@ -1,0 +1,20 @@
+{
+    "name": "svenanders/sarmetadata",
+    "type": "sarmetadata",
+    "description": "Metadata extractor module for Zend Framework 2",
+    "license": "public domain",
+    "authors": [
+        {
+        "name": "Sven Anders Robbestad",
+        "email": "robbestad@gmail.com"
+        }
+    ],
+    "require": {
+    "php": ">=5"
+    },
+    "autoload": {
+        "classmap": [
+            "Module.php"
+        ]
+    }
+}

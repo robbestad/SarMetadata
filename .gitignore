@@ -1,0 +1,6 @@
+composer.phar
+composer.lock
+data/
+.idea/
+vendor/
+.sonar/
