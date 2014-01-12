@@ -20,7 +20,7 @@ Add the following line to your **application.config.php**:
   
 In your code, include the class:
 
-    use SarMetadata;
+    use SarMetadata\SarMetadata;
 
 and then in your functions, use it like this:
 
